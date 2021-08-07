@@ -21,3 +21,5 @@
  * History
  * 2016/28/10 - Added responsiveness - marc magon
  */
+
+//! popover should be deprecated on the next redesign
