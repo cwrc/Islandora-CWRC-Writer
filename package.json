@@ -39,7 +39,7 @@
     "dbpedia-entity-lookup": "^2.0.0",
     "env-cmd": "^10.1.0",
     "geonames-entity-lookup": "^2.1.0",
-    "getty-entity-lookup": "^2.2.0",
+    "getty-entity-lookup": "^2.3.0",
     "viaf-entity-lookup": "^2.1.0",
     "wikidata-entity-lookup": "^2.1.0"
   },
